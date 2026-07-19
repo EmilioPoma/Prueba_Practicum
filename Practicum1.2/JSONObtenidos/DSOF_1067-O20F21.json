@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "archivo_origen": "DSOF_1067-O20F21.pdf",
+    "fecha_procesamiento": "2026-07-18T20:17:39",
+    "universidad": "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA",
+    "modalidad": "Presencial",
+    "lugar": "Loja – Ecuador",
+    "anio_documento": "2020",
+    "area_academica": "Técnica",
+    "carrera": "Computación",
+    "tipo_documento": "programa_de_asignatura",
+    "asignatura": "Introducción a la programación",
+    "fecha_de_elaboracion": "Septiembre 2020"
+  },
+  "portada": {
+    "texto": [
+      "UNIVERSIDAD TÉCNICA PARTICULAR DE LOJA",
+      "MODALIDAD PRESENCIAL",
+      "Loja – Ecuador",
+      "2020"
+    ],
+    "area_academica": "Técnica",
+    "carrera": "Computación",
+    "programa_de_asignatura": "Introducción a la programación"
+  },
+  "a_datos_de_identificacion_de_la_asignatura": {
+    "asignatura": "Introducción a la programación",
+    "modalidad_de_estudio": "Presencial",
+    "area_academica": "Técnica",
+    "seccion_departamental": "Tecnologías avanzadas de la web y Sistemas basados en el\nconocimiento",
+    "nombre_de_la_carrera": "Computación",
+    "campo_de_formacion_del_curriculo": "Fundamentos teóricos",
+    "periodo_academico": "Primero",
+    "numero_de_credito_horas": {
+      "credito": "3",
+      "horas": "144"
+    },
+    "codigo": "DSOF_1067",
+    "pre_requisitos": "-",
+    "correquisitos": "-",
+    "resultados_de_aprendizaje_del_perfil_de_egreso_al_que_aporta_la_asignatura": "Analizar problemas computacionales y plantear soluciones mediante\nmétodos matemáticos.",
+    "competencia_s_especifica_s_a_la_que_aporta_la_asignatura": "Demuestra dominio de conocimientos y habilidades para la solución\nde problemas mediante la aplicación y creación de algoritmos,\nmodelos matemáticos y métodos de Ciencias de la Computación.",
+    "fecha_de_elaboracion": "Septiembre 2020"
+  },
+  "b_descripcion_general_de_la_asignatura": {
+    "texto": "Esta asignatura permite establecer en el proceso de formación de un ingeniero en Ciencias de la Computación, que la programación es una de las áreas fundamentales, pues, muchas de las actividades profesionales exigen el conocimiento en este campo. Se la dicta en el segundo ciclo, aquí se enseñan las bases metodológicas y técnicas que le permitirán programar en cualquier lenguaje de alto nivel. Además, a través de los nuevos conocimientos, se podrá sentar las bases teóricas y prácticas para lograr los resultados de aprendizaje de asignaturas posteriores; contribuyendo al logro del perfil de egreso y al perfil profesional."
+  },
+  "c_resultados_de_aprendizaje_de_la_asignatura": {
+    "lista_1": [
+      "o Analiza y explica el comportamiento de programas que involucran estructuras fundamentales de programación como variables, expresiones, asignaciones, archivos, estructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad.",
+      "o Diseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de programación",
+      "o Identifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través del uso de excepciones",
+      "o Aplica estrategias para la prueba y depuración de programas.",
+      "o Construye, ejecuta y depura programas usando un IDE moderno"
+    ],
+    "lista_2": [
+      "o Aplica estándares de documentación y estilo de programación que contribuyan a la legibilidad y mantenimiento de software",
+      "o Extrae y manipula información de archivos de datos"
+    ]
+  },
+  "d_contenidos": [
+    {
+      "nro_de_orden": "1",
+      "nombre_de_la_unidad": "Unidad I: Introducción a\nProgramación.",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Introducción\n Importancia de la programación\n Lenguajes de Programación\n Metodologías de programación\n Entornos de Programación",
+      "numero_de_creditos_total_de_horas_de_la_asignatura": "3/144"
+    },
+    {
+      "nro_de_orden": "2",
+      "nombre_de_la_unidad": "Unidad II: Entornos\nmodernos de desarrollo.",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Gestión de código fuente a través de software de\ncontrol de versiones\n Entornos de virtualización para pruebas y\ndesarrollo\n Introducción Computación en la nube (Cloud\nComputing)"
+    },
+    {
+      "nro_de_orden": "3",
+      "nombre_de_la_unidad": "Unidad III: Sintaxis y\nSemántica de lenguajes\nde programación.",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Elementos básicos de la programación\n Manejo de tipos de datos en lenguajes de alto\nnivel\n Manejo de operadores y expresiones en lenguaje\nde alto nivel\n Creación de programas en lenguajes de alto nivel\n Depuración de programas"
+    },
+    {
+      "nro_de_orden": "4",
+      "nombre_de_la_unidad": "Unidad IV: Estructuras\nde control.",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Estructuras de selección simple.\n Estructuras de selección compuestas.\n Estructuras de selección anidadas.\n Estructura de control múltiple (switch).\n Estructuras repetitivas while.\n Estructuras repetitivas do-while.\n Estructuras repetitivas for."
+    },
+    {
+      "nro_de_orden": "5",
+      "nombre_de_la_unidad": "Unidad V: Estructuras de\nDatos",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Arreglos Unidimensionales\n Arreglos Bidimensionales"
+    },
+    {
+      "nro_de_orden": "6",
+      "nombre_de_la_unidad": "Unidad VI: Módulos y\nFunciones.",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Introducción\n Declaración de funciones y métodos en lenguajes\nde alto nivel\n Ámbito de variables locales y globales\n Manejo de métodos que no regresan valor.\n Manejo de métodos que regresan valor.\n Sobrecarga de métodos"
+    },
+    {
+      "nro_de_orden": "6",
+      "nombre_de_la_unidad": "Unidad VII: Recursividad\ny Archivos",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Introducción y conceptos básicos de recursividad.\n Recursividad vs Iteración\n Tipos de recursividad\n Aplicación de la recursividad\n Escritura de archivos\n Lectura de archivos"
+    },
+    {
+      "nro_de_orden": "6",
+      "nombre_de_la_unidad": "Unidad VIII: Librerías,\nAPI ś de desarrollo.",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Creación de paquetes y librerías en lenguajes de\nalto nivel.\n Consumo de API's de lenguajes de programación\nde alto nivel."
+    },
+    {
+      "nro_de_orden": "6",
+      "nombre_de_la_unidad": "Unidad IX: Programación\na la defensiva.",
+      "temas_y_subtemas_de_la_unidad_contenidos": " Conceptos de Programación Defensiva\n Manejo de Assetions\n Introducción al manejo de excepciones\n Estrategias para el Manejo de Excepciones\n Diseño de excepciones propias\n Ejemplificación de excepciones en lenguajes de\nalto nivel"
+    }
+  ],
+  "e_metodologia": {
+    "texto": "En la asignatura de Introducción a la Programación, la metodología de enseñanza tiene como finalidad fomentar una sólida formación en conceptos de Programación; se hará uso de diversas técnicas pedagógicas, tales como: desarrollo de ejercicios guiados, resolución de caso base de estudio, trabajos individuales, trabajos grupales, investigación bibliográfica de contenido. Se promoverá la interacción en el aula con las clases presenciales y tutorías, aplicando metodologías activas para el aprendizaje."
+  },
+  "f_procedimientos_de_evaluacion": [
+    {
+      "componente": "Contacto con el docente",
+      "actividades": "Evaluación parcial",
+      "peso_ponderacion": "35%"
+    },
+    {
+      "componente": "Contacto con el docente",
+      "actividades": "Evaluación bimestral",
+      "peso_ponderacion": "35%"
+    },
+    {
+      "componente": "Práctico experimental",
+      "actividades": "Talleres individuales",
+      "peso_ponderacion": "35%"
+    },
+    {
+      "componente": "Práctico experimental",
+      "actividades": "Trabajo colaborativo",
+      "peso_ponderacion": "35%"
+    },
+    {
+      "componente": "Autónomo",
+      "actividades": "Proyecto bimestral",
+      "peso_ponderacion": "30%"
+    },
+    {
+      "componente": "Autónomo",
+      "actividades": "Consulta de temáticas",
+      "peso_ponderacion": "30%"
+    }
+  ],
+  "g_bibliografia": {
+    "basica": {
+      "lista_3": [
+        "o Dietel, P. y Dietel, H. (2016). Java Como Programar. México: Pearson Prentice Hall.",
+        "o López Román, Leobardo. (2013) Metodología programación orientada a objetos. México"
+      ]
+    },
+    "complementaria": {
+      "lista_4": [
+        "o Cadenhead, Roger (2014). PROGRAMACIÓN JAVA 8. Anaya",
+        "o Fernández, Arturo (2013). Python 3 al descubierto. Segunda. Edición. Rc Libros",
+        "o Joyanes A, Luis (2011). Programación en Java 6 Algoritmos, POO e Interfaz Gráfica de Usuario. México. McGraw-Hill",
+        "o Thomas, Erl (2013). Cloud computing: concepts, technology & architecture. New Jersey. Prentice Hall"
+      ]
+    }
+  },
+  "h_elaboracion_y_aprobacion": [
+    {
+      "actividades": "Elaboración:",
+      "nombre": "Pedro Daniel Irene Robalino",
+      "funcion": "Equipo de Gestión de Calidad"
+    },
+    {
+      "actividades": "Revisión:",
+      "nombre": "María Belén Mora Arciniegas",
+      "funcion": "Responsable de Sección\nDepartamental"
+    },
+    {
+      "actividades": "Aprobación:",
+      "nombre": "Ramiro Alberto Correa Jaramillo",
+      "funcion": "Director de Área (con informe de\nla sección departamental)"
+    },
+    {
+      "actividades": "Fecha de elaboración",
+      "funcion": "Septiembre 2020"
+    }
+  ]
+}

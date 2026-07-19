@@ -1,0 +1,613 @@
+{
+  "metadata": {
+    "archivo_origen": "PLAN_3952-DSOF_1067.pdf",
+    "fecha_procesamiento": "2026-07-18T20:32:22",
+    "universidad": "",
+    "modalidad": "",
+    "lugar": "",
+    "anio_documento": "",
+    "area_academica": "INGENIERIAS Y ARQUITECTURA",
+    "carrera": "COMPUTACION",
+    "tipo_documento": "programa_de_asignatura",
+    "asignatura": "INTRODUCCION A LA PROGRAMACION",
+    "fecha_de_elaboracion": "09-08-2023"
+  },
+  "portada": {
+    "texto": [
+      "PLAN DOCENTE DE LA ASIGNATURA",
+      "CARRERAS NUEVAS O REDISEÑADAS"
+    ]
+  },
+  "a_datos_basicos_de_la_asignatura": {
+    "nombre_de_la_asignatura": "INTRODUCCION A LA PROGRAMACION",
+    "carrera": "COMPUTACION",
+    "facultad": "INGENIERIAS Y ARQUITECTURA",
+    "numero_de_creditos_horas": {
+      "creditos": "3",
+      "horas": "144"
+    },
+    "campo_de_formacion": "Fundamentos Teóricos x\nPráxis Profesional\nEpistemología y Metodología de la Investigación\nIntegración de Contextos, Saberes y Cultura\nComunicación y Lenguajes",
+    "unidad_de_organizacion_curricular": "Básica Profesional Integración Curricular\nx",
+    "periodo_academico_ordinario_pao_en_el_que_se_imparte": "PRIMERO",
+    "fundamentos_teoricos": "x",
+    "otros_elementos": [
+      "Práxis Profesional",
+      "Epistemología y Metodología de la Investigación",
+      "Integración de Contextos, Saberes y Cultura",
+      "Comunicación y Lenguajes"
+    ],
+    "registros": [
+      {
+        "basica": "x"
+      }
+    ],
+    "periodo_academico": "OCT/2023 - FEB/2024",
+    "pre_requisitos_y_co_requisitos": "La asignatura sugiere que el estudiante tenga como pre-requisitos una fundamentación\nmatemática básica para ingeniería. Además, como co-requisito se incluye la asignatura\nde Fundamentos Computacionales.",
+    "importancia_de_la_asignatura_en_el_perfil_de_egreso_de_la_carrera": "En el proceso de formación de un ingeniero en Computación, la programación es una de\nlas áreas fundamentales; pues muchas de las actividades profesionales exigen el\nconocimiento en este campo, por lo que el estudio de esta asignatura se constituye en\nuno de los pilares básicos e importantes; aquí se enseñan las bases metodológicas y\ntécnicas que le permitirán programar en cualquier lenguaje de alto nivel. Además, a\ntravés de los resultados de aprendizaje adquiridos, el profesional en formación podrá\ncontinuar el estudio de componentes asociados a programación como Programación\nOrientada a Objetos, Programación Funcional y Programación Avanzada.",
+    "organizacion_del_aprendizaje": {
+      "componente": "Número de horas",
+      "aprendizaje_en_contacto_con_el_docente": "48",
+      "aprendizaje_practico_experimental": "32",
+      "aprendizaje_autonomo": "64",
+      "total": "144"
+    },
+    "horario_de_clases": [
+      {
+        "docente": "RENE ROLANDO ELIZALDE SOLANO",
+        "paralelo": "A",
+        "dia": "MIERCOLES",
+        "horario": "03:00 PM-04:59 PM0 (CLAS)"
+      },
+      {
+        "docente": "RENE ROLANDO ELIZALDE SOLANO",
+        "paralelo": "A",
+        "dia": "JUEVES",
+        "horario": "03:00 PM-04:59 PM0 (PRAC)"
+      },
+      {
+        "docente": "RENE ROLANDO ELIZALDE SOLANO",
+        "paralelo": "A",
+        "dia": "JUEVES",
+        "horario": "05:00 PM-05:59 PM0 (TUTO)"
+      },
+      {
+        "docente": "ANGEL EDUARDO ENCALADA ENCALADA",
+        "paralelo": "B",
+        "dia": "JUEVES",
+        "horario": "03:00 PM-04:59 PM0 (PRAC)"
+      },
+      {
+        "docente": "ANGEL EDUARDO ENCALADA ENCALADA",
+        "paralelo": "B",
+        "dia": "MIERCOLES",
+        "horario": "03:00 PM-04:59 PM0 (CLAS)"
+      },
+      {
+        "docente": "ANGEL EDUARDO ENCALADA ENCALADA",
+        "paralelo": "B",
+        "dia": "JUEVES",
+        "horario": "05:00 PM-05:59 PM0 (TUTO)"
+      },
+      {
+        "docente": "PEDRO DANIEL IRENE ROBALINO",
+        "paralelo": "C",
+        "dia": "MIERCOLES",
+        "horario": "03:00 PM-04:59 PM0 (CLAS)"
+      },
+      {
+        "docente": "PEDRO DANIEL IRENE ROBALINO",
+        "paralelo": "C",
+        "dia": "JUEVES",
+        "horario": "03:00 PM-04:59 PM0 (PRAC)"
+      },
+      {
+        "docente": "PEDRO DANIEL IRENE ROBALINO",
+        "paralelo": "C",
+        "dia": "JUEVES",
+        "horario": "05:00 PM-05:59 PM0 (TUTO)"
+      },
+      {
+        "docente": "IRMA ELIZABETH CADME SAMANIEGO",
+        "paralelo": "D",
+        "dia": "MIERCOLES",
+        "horario": "03:00 PM-04:59 PM0 (CLAS)"
+      },
+      {
+        "docente": "IRMA ELIZABETH CADME SAMANIEGO",
+        "paralelo": "D",
+        "dia": "JUEVES",
+        "horario": "07:00 AM-09:59 AM0 (PRAC)"
+      }
+    ]
+  },
+  "b_datos_basicos_del_docente": {
+    "nombre_del_docente": [
+      "RENE ROLANDO ELIZALDE SOLANO",
+      "IRMA ELIZABETH CADME SAMANIEGO",
+      "PEDRO DANIEL IRENE ROBALINO",
+      "ANGEL EDUARDO ENCALADA ENCALADA"
+    ],
+    "titulo_s_de_tercer_nivel": [
+      "Ingeniero en Sistemas",
+      "Ingeniera en Sistemas Informáticos y Computación",
+      "Ingeniero en Sistemas Informáticos y Computación",
+      "Ingeniero en Informática"
+    ],
+    "titulo_s_de_cuarto_nivel": [
+      "Master Universitario en Ingeniería de Software para la Web",
+      "Máster en Inteligencia Artificial",
+      "Master Universitario en Ingeniería de Software para la Web",
+      "Máster en Análisis y Visualización de Datos Masivos / Visual Analytics and Big Data"
+    ],
+    "departamento": [
+      "CIENCIAS DE LA COMP Y ELECT",
+      "CIENCIAS DE LA COMP Y ELECT",
+      "CIENCIAS DE LA COMP Y ELECT",
+      "CIENCIAS DE LA COMP Y ELECT"
+    ],
+    "correo_electronico": [
+      "rrelizalde@utpl.edu.ec",
+      "iecadme@utpl.edu.ec",
+      "pdirene@utpl.edu.ec",
+      "aeencalada@utpl.edu.ec"
+    ],
+    "curriculum_resumido": [
+      "Máster Universitario en Ingeniería del Software para la Web - Universidad de Alcalá.\nIngeniero en Sistemas - Universidad Nacional de Loja. Docente Investigador del\nDepartamento de Ciencias de la Computación y Electrónica. Miembro del grupo de\ninvestigación Sistemas Basados en el Conocimiento. Analista Desarrollador de la Sección de\nDesarrollo de Software de la Universidad Nacional de Loja. Docente invitado de la carrera de\nIngeniería en Sistemas de la Universidad Nacional de Loja. Docente invitado a la maestría de\nIngeniería del Software de la Universidad Nacional de Loja.",
+      "Máster de Inteligencia Artificial, Universidad Politécnica de Madrid (España). Ingeniera en\nSistemas Informáticos y Computación, Universidad Técnica Particular de Loja (Ecuador).\nDocente de UTPL, desde el año 2008 a cargo de diferentes componentes académicos de la\ntitulación de Ciencias de la Computación y Electrónica (modalidad presencial) y de la\ntitulación de Informática (modalidad a distancia). Desde el año 2010 forma parte del Instituto\nde Investigación de Ciencias de la Computación y a partir del 2012 del Departamento de\nCiencias de la Computación y Electrónica, en la sección e Tecnologías Avanzadas de la Web y\nSistemas Basados en el Conocimiento.",
+      "Ingeniero en Sistemas Informáticos y Computación por la Universidad Técnica Particular de\nLoja - Ecuador. Maestría en Ingeniería de Software para la Web por la Universidad de Alcalá\nde Henares - España. Docente Universitario en la UTPL en asignaturas de Programación,\nArquitectura de Aplicaciones, Calculo, Matemática por más de 10 años. Labora en el\nDepartamento de Computación y Electrónica en la Sección departamental Tecnologías\nAvanzadas de la Web y se encuentra involucrado en el desarrollo de Laboratorios Virtuales de\nSimulación en ramas de ingeniería civil.",
+      "Ingeniero en Informática de la Universidad Técnica Particular de Loja (Ecuador). Máster en\nAnálisis y Visualización de Datos Masivos / Visual Analytics and Big Data de la Universidad\nInternacional de la Rioja (España). Actualmente miembro del Departamento de Ciencias de la\nComputación y Electrónica de la UTPL. Docente en las carreras de Computación, Tecnologías\nde la Información, y Tecnología Superior en Transformación Digital de Empresas. Profesor en\nmaterias de Lógica y Metodología de la Programación, Fundamentos de Programación, Bases\nde Datos, e Inteligencia de Negocios. Experiencia en administración de bases de datos,\nanalítica de datos, visualización de información, análisis y diseño de sistemas, y gestión de\ninfraestructura tecnológica."
+    ]
+  },
+  "c_competencias_a_desarrollar": {
+    "otros_elementos": [
+      "Competencias genéricas de la UTPL",
+      "Pensamiento crítico y reflexivo.",
+      "Competencias específicas de la carrera",
+      "Demuestra dominio de conocimientos y habilidades para la solución de problemas mediante la aplicación y\ncreación de algoritmos, modelos matemáticos y métodos de Ciencias de la Computación"
+    ]
+  },
+  "d_planificacion_general_de_la_asignatura_primer_bimestre": {
+    "semana_1": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+      "contenidos_a_desarrollarse": "Unidad 1: Introducción a Programación.\nIntroducción\nImportancia de la programación\nLenguajes de Programación\nMetodologías de Programación\nEntornos de Programación",
+      "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad",
+      "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+      "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+      "actividades_del_componente_aprendizaje_practico_experimental": "Taller Individual 1 (Laboratorio)\nInstalación, configuración del entorno de trabajo.",
+      "horas_del_componente_aprendizaje_practico_experimental": "2.0"
+    },
+    "lecturas_temas_de_la_unidad_2": {
+      "actividades_del_componente_aprendizaje_autonomo": "Recurso [10] Pro Git 2.0\nRecurso [9]: Del cloud computing al big data\nConsulta 01\n2.0\n[Consulta] Investigar sobre Entornos de virtualización para pruebas y desarrollo –\nDocker.",
+      "horas_del_componente_aprendizaje_autonomo": "4.0"
+    },
+    "recurso_10_pro_git_recurso_9_del_cloud_computing_al_big_data": "2.0",
+    "consulta_01_consulta_investigar_sobre_entornos_de_virtualizacion_para_pruebas_y_desarrollo_docker": "2.0",
+    "semana_2": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+      "contenidos_a_desarrollarse": "Unidad 2: Entornos modernos de desarrollo.\nGestión de código fuente a través de software de control de versiones.\nEntornos de virtualización para pruebas y desarrollo.\nIntroducción Computación en la nube (Cloud Computing).",
+      "resultados_de_aprendizaje": "Aplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+      "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+      "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+      "actividades_del_componente_aprendizaje_practico_experimental": "Taller 2 Individual (Laboratorio)\nConfiguración de uso de Git y GitHub"
+    },
+    "horas_del_componente_aprendizaje_practico_experimental": [
+      "2.0",
+      "2.0",
+      "2.0",
+      "2.0"
+    ],
+    "actividades_del_componente_aprendizaje_autonomo": [
+      "Lectura\nLectura comprensiva de los temas de la Unidad 3 en los siguientes recursos:\n2.0\nBibliografía básica [1] Unidades: Introducción a las aplicaciones en Java: entrada\n/salida y operadores\nLectura\nLectura comprensiva de los temas de la Unidad 3 en los siguientes recursos: 1.0\nRecurso [11]: Java y sus características; Variables, expresiones y variables\nLectura\nLectura comprensiva de los temas de la Unidad 3 en los siguientes recursos:\nBibliografía básica [2] Unidades: 1.0\nElementos para solucionar problemas en seudocódigo\nLa secuenciación.",
+      "Lectura\nLectura comprensiva de los temas de la Unidad 3 en los siguientes recursos:\n2.0\nBibliografía básica [1] Unidades: Introducción a las aplicaciones en Java: entrada\n/salida y operadores\nLectura\nLectura comprensiva de los temas de la Unidad 3 en los siguientes recursos:\n2.0\nBibliografía básica [2] Unidades: Elementos para solucionar problemas en\nseudocódigo. La secuenciación.",
+      "Lectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos:\n1.0\nBibliografía básica [2] Unidades:\nLa repetición\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos:\n0.5\nRecurso [11]: Iteración\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos: 0.5\nRecurso [12]. Elementos de programación estructurada\nProyecto Bimestral\n1.0\nImplementación de programas en Python. Recurso [8]",
+      "Proyecto Bimestral\n2.0\nPresentación y defensa de la implementación de programas en Python – entrega\nfinal\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos:\n1.0\nBibliografía básica [1] Unidades:\nInstrucciones de control: parte 2\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos:\n0.5\nBibliografía básica [2] Unidades:\nLa repetición\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos: 0.5\nRecurso [11]: Iteración"
+    ],
+    "horas_del_componente_aprendizaje_autonomo": [
+      "4.0",
+      "4.0",
+      "4.0",
+      "4.0"
+    ],
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_3_en_los_siguientes_recursos_bibliografia_basica_1_unidades_introduccion_a_las_aplicaciones_en_java_entrada_salida_y_operadores": [
+      "2.0",
+      "2.0"
+    ],
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_3_en_los_siguientes_recursos_recurso_11_java_y_sus_caracteristicas_variables_expresiones_y_variables": "1.0",
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_3_en_los_siguientes_recursos_bibliografia_basica_2_unidades_elementos_para_solucionar_problemas_en_seudocodigo_la_secuenciacion": [
+      "1.0",
+      "2.0"
+    ],
+    "lista_1": [
+      "Bibliografía básica [1] Unidades: Introducción a las aplicaciones en Java: entrada /salida y operadores",
+      "Bibliografía básica [2] Unidades: Elementos para solucionar problemas en seudocódigo La secuenciación."
+    ],
+    "semana_3": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+      "contenidos_a_desarrollarse": "Unidad 3: Sintaxis y Semántica de lenguajes de programación.\nElementos básicos de la programación.\nManejo de tipos de datos en lenguajes de alto nivel.\nManejo de operadores y expresiones en lenguaje de alto nivel.",
+      "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software"
+    },
+    "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": [
+      "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+      "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+      "Evaluación Bimestral\nExplicación y resolución de inquietudes durante evaluación bimestral\nTutorías\nTutorías"
+    ],
+    "horas_del_componente_aprendizaje_en_contacto_con_el_docente": [
+      "3.0",
+      "3.0",
+      "3.0"
+    ],
+    "actividades_del_componente_aprendizaje_practico_experimental": [
+      "Taller 3 Grupal (Laboratorio)\nManejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel.",
+      "Taller 4 Individual (Laboratorio):\nConstrucción de programas básicos",
+      "Resolución guiada de la evaluación bimestral\nExplicación de las preguntas y problemas de la evaluación bimestral"
+    ],
+    "lista_2": [
+      "Bibliografía básica [1] Unidades: Introducción a las aplicaciones en Java: entrada /salida y operadores",
+      "Bibliografía básica [2] Unidades: Elementos para solucionar problemas en seudocódigo. La secuenciación."
+    ],
+    "semana_4": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación"
+    },
+    "contenidos_a_desarrollarse": "Unidad 3: Sintaxis y Semántica de lenguajes de programación\nCreación de programas en lenguajes de alto nivel\nDepuración de programas",
+    "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+    "actividades_del": "Lectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos: 0.5\nBibliografía básica [1] Unidades: Instrucciones de control: parte 1\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos: 0.5\nBibliografía básica [2] Unidades: La selección",
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_bibliografia_basica_1_unidades_instrucciones_de_control_parte_1": [
+      "0.5",
+      "1.0"
+    ],
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_bibliografia_basica_2_unidades_la_seleccion": [
+      "0.5",
+      "1.0"
+    ],
+    "lista_3": [
+      "Bibliografía básica [1] Unidades: Instrucciones de control: parte 1",
+      "Bibliografía básica [2] Unidades: La selección"
+    ],
+    "componente_aprendizaje_autonomo": "Lectura\n1.0\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos:\nRecurso [11]: Condicionales\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos: 1.0\nRecurso [12]. Elementos de programación estructurada\nProyecto Bimestral\n1.0\nImplementación de programas en Python. Recurso [8], Recurso[13]",
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_recurso_11_condicionales": [
+      "1.0",
+      "1.0"
+    ],
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_recurso_12_elementos_de_programacion_estructurada": [
+      "1.0",
+      "1.0",
+      "0.5"
+    ],
+    "proyecto_bimestral_implementacion_de_programas_en_python_recurso_8_recurso_13": "1.0",
+    "lista_4": [
+      "Recurso [11]: Condicionales",
+      "Recurso [12]. Elementos de programación estructurada"
+    ],
+    "semana_5": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+      "contenidos_a_desarrollarse": "Unidad 4: Estructuras de control\nEstructuras de selección simple - if\nEstructuras de selección compuestas - if/else",
+      "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+      "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías\nEvaluación parcial del primer bimestre"
+    },
+    "resolucion_de_las_preguntas_y_problemas_de_la_evaluacion_parcial_del_primer_bimestre_por_parte_de_los_estudiantes": {
+      "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.00",
+      "actividades_del_componente_aprendizaje_practico_experimental": "Taller 5 Grupal (Laboratorio)\nConstrucción de programas usando estructuras de selección simple y compuesta",
+      "horas_del_componente_aprendizaje_practico_experimental": "2.0",
+      "actividades_del_componente_aprendizaje_autonomo": "Lectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos:\n1.0\nBibliografía básica [1] Unidades:\nInstrucciones de control: parte 1\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos:\n1.0\nBibliografía básica [2] Unidades:\nLa selección\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos: 1.0\nRecurso [11]: Condicionales\nLectura\nLectura comprensiva de los temas de la Unidad 4 en los siguientes recursos: 1.0\nRecurso [12]. Elementos de programación estructurada",
+      "horas_del_componente_aprendizaje_autonomo": "4.0"
+    },
+    "lista_5": [
+      "Bibliografía básica [1] Unidades: Instrucciones de control: parte 1",
+      "Bibliografía básica [2] Unidades: La selección"
+    ],
+    "lista_6": [
+      "Recurso [11]: Condicionales",
+      "Recurso [12]. Elementos de programación estructurada"
+    ],
+    "semana_6": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+      "contenidos_a_desarrollarse": "Unidad 4: Estructuras de control.\nEstructuras de selección anidadas.\nEstructura de control múltiple (switch).",
+      "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+      "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+      "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+      "actividades_del_componente_aprendizaje_practico_experimental": "Taller 6 (Laboratorio)\nConstrucción de programas usando estructuras de selección anidadas y switch.",
+      "horas_del_componente_aprendizaje_practico_experimental": "2.0"
+    },
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_1_0_bibliografia_basica_1_unidades_instrucciones_de_control_parte_1_instrucciones_de_control_parte_2": {
+      "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_bibliografia_basica_1_unidades_instrucciones_de_control_parte_1_instrucciones_de_control_parte_2": "1.0"
+    },
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_bibliografia_basica_2_unidades_la_repeticion": [
+      "1.0",
+      "0.5"
+    ],
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_recurso_11_iteracion": [
+      "0.5",
+      "0.5"
+    ],
+    "proyecto_bimestral_implementacion_de_programas_en_python_recurso_8": "1.0",
+    "lista_7": [
+      "Recurso [11]: Iteración",
+      "Recurso [12]. Elementos de programación estructurada"
+    ],
+    "semana_7": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+      "contenidos_a_desarrollarse": "Unidad 4: Estructuras de control.\nEstructuras repetitivas while.\nEstructuras repetitivas do-while.",
+      "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software"
+    },
+    "clase_magistral_de_contenidos_exposicion_y_explicacion_de_contenidos": {
+      "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Resolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+      "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+      "actividades_del_componente_aprendizaje_practico_experimental": "Taller 7 Grupal (Laboratorio)\nConstrucción de programas usando estructuras de control repetitivas (do / do-while)",
+      "horas_del_componente_aprendizaje_practico_experimental": "2.0",
+      "actividades_del_componente_aprendizaje_autonomo": "Lectura\n4.0\nRevisión de contenidos de las unidades como preparación de la evaluación final\ndel primer bimestre.",
+      "horas_del_componente_aprendizaje_autonomo": "4.0"
+    },
+    "lectura_revision_de_contenidos_de_las_unidades_como_preparacion_de_la_evaluacion_final_del_primer_bimestre": "4.0",
+    "semana_8": {
+      "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+      "contenidos_a_desarrollarse": "Repaso Primer Bimestre\nEvaluación del primer bimestre",
+      "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software"
+    },
+    "horas_del_componente_aprendizaje": "4.0",
+    "proyecto_bimestral_presentacion_y_defensa_de_la_implementacion_de_programas_en_python_entrega_final": "2.0",
+    "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_4_en_los_siguientes_recursos_bibliografia_basica_1_unidades_instrucciones_de_control_parte_2": "1.0",
+    "lista_8": [
+      "Bibliografía básica [1] Unidades: Instrucciones de control: parte 2",
+      "Bibliografía básica [2] Unidades: La repetición"
+    ],
+    "otros_elementos": [
+      "autónomo"
+    ],
+    "horas_de_trabajo": "(Totales del bimestre)",
+    "aprendizaje_en_contacto_con_el_docente": "24",
+    "aprendizaje_practico_experimental": "16",
+    "aprendizaje_autonomo": "32",
+    "total": "72",
+    "fechas_importantes": {
+      "clase_presencial": "Semana 1 - del 11/10/2023 al 15/10/2023 Prueba parcial: Semana 5 - del 06/11/2023 al 12/11/2023 Examen bimestral: Semana 8 - del 27/11/2023 al 03/12/2023 Proyecto de investigación: Semana 8 - del 27/11/2023 al 03/12/2023"
+    }
+  },
+  "d_evaluacion_de_la_asignatura_primer_bimestre": {
+    "segundo_bimestre": {
+      "semana_9": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+        "contenidos_a_desarrollarse": "Unidad 4: Estructuras de control.\nEstructuras repetitivas for.",
+        "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+        "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías"
+      },
+      "horas_del_componente_aprendizaje_en_contacto_con_el_docente": [
+        "3.0",
+        "3.0"
+      ],
+      "actividades_del_componente_aprendizaje_practico_experimental": [
+        "Taller 8 Individual (Laboratorio)\nConstrucción de programas usando estructuras de control repetitivas (for)",
+        "Taller 11 Individual (Laboratorio)\nConstrucción de programas usando módulos y funciones",
+        "Taller 13 - Grupal (Laboratorio)\nConstrucción de programas usando paquetes y API’s de desarrollo\nTaller 12 Individual (Laboratorio)\nConstrucción de programas usando recursividad"
+      ],
+      "horas_del_componente_aprendizaje_practico_experimental": [
+        "2.0",
+        "2.0",
+        "2.0",
+        "2.0"
+      ],
+      "actividades_del_componente_aprendizaje_autonomo": [
+        "Lectura\nLectura comprensiva de los temas de la unidad 5 en los siguientes recursos:\nBibliografía básica [1] Unidades: 2.0\nArreglos y objetos ArrayList\nLectura\nLectura comprensiva de los temas de la unidad 5 en los siguientes recursos:\n1.0\nBibliografía básica [2] Unidades: Arreglos\nLectura\nLectura comprensiva de los temas de la unidad 5 en los siguientes recursos: 1.0\nRecurso [11]: Arreglos",
+        "Lectura\nLectura comprensiva de los temas de las unidades 6 y 7 en los siguientes recursos:\n0.5\nBibliografía básica [1] Unidades:\nMétodos: un análisis más detallado\nRecursividad\nLectura\nLectura comprensiva de los temas de las unidades 6 y 7 en los siguientes recursos:\n0.5\nBibliografía básica [2] Unidades:\nMétodos\nLectura\nLectura comprensiva de los temas de las unidades 6 y 7 en los siguientes recursos: 1.0\nRecurso [11]: Métodos\nEstudio de caso práctico\n2.0\nImplementación en lenguaje de alto nivel de problemática dada (avance 1)",
+        "Lectura\nLectura comprensiva de los temas de la unidad 8 en los siguientes recursos:\n2.0\nBibliografía básica [1] Unidades:\nMétodos: un análisis más detallado\nProyecto Bimestral\n1.0\nImplementación de programas en Python. Recurso [8]\nEstudio de caso práctico\n1.0\nImplementación en lenguaje de alto nivel de problemática dada (avance 2)",
+        "Lectura\nLectura comprensiva de los temas de la Unidad 9 en los siguientes recursos:\nBibliografía básica [1] Unidades: 2.0\nManejo de excepciones: un análisis más detallado\nEstudio de caso práctico\n2.0\nImplementación en lenguaje de alto nivel de problemática dada (avance 3)"
+      ],
+      "horas_del_componente_aprendizaje_autonomo": [
+        "4.0",
+        "4.0",
+        "4.0",
+        "4.0",
+        "4.0"
+      ],
+      "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_5_en_los_siguientes_recursos_bibliografia_basica_1_unidades_arreglos_y_objetos_arraylist": [
+        "2.0",
+        "1.0"
+      ],
+      "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_5_en_los_siguientes_recursos_bibliografia_basica_2_unidades_arreglos": [
+        "1.0",
+        "1.0"
+      ],
+      "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_5_en_los_siguientes_recursos_recurso_11_arreglos": "1.0",
+      "lista_9": [
+        "Bibliografía básica [1] Unidades: Arreglos y objetos ArrayList",
+        "Bibliografía básica [2] Unidades: Arreglos"
+      ],
+      "semana_10": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación"
+      },
+      "unidad_5_estructuras_de_datos": {
+        "contenidos_a_desarrollarse": "Arreglos Unidimensionales",
+        "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nDiseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de\nprogramación\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+        "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+        "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+        "actividades_del_componente_aprendizaje_practico_experimental": "Taller 9 Grupal (Laboratorio)\nConstrucción de programas usando arreglos unidimensionales",
+        "horas_del_componente_aprendizaje_practico_experimental": "2.0",
+        "actividades_del_componente_aprendizaje_autonomo": "Lectura\nLectura comprensiva de los temas de la unidad 5 en los siguientes recursos:\n1.0\nBibliografía básica [1] Unidades:\nArreglos y objetos ArrayList\nLectura\nLectura comprensiva de los temas de la unidad 5 en los siguientes recursos:\n1.0\nBibliografía básica [2] Unidades:\nArreglos"
+      },
+      "lista_10": [
+        "Bibliografía básica [1] Unidades: Arreglos y objetos ArrayList",
+        "Bibliografía básica [2] Unidades: Arreglos"
+      ],
+      "proyecto_bimestral_2_0_implementacion_de_programas_en_python_recurso_8": {
+        "horas_del_componente_aprendizaje_autonomo": "4.0"
+      },
+      "proyecto_bimestral_implementacion_de_programas_en_python_recurso_8": [
+        "2.0",
+        "1.0"
+      ],
+      "semana_11": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+        "contenidos_a_desarrollarse": "Unidad 5: Estructuras de Datos\nArreglos Bidimensionales",
+        "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nDiseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de\nprogramación\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+        "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+        "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+        "actividades_del_componente_aprendizaje_practico_experimental": "Taller 10 Individual (Laboratorio)\nConstrucción de programas usando arreglos bidimensionales"
+      },
+      "lectura_lectura_comprensiva_de_los_temas_de_las_unidades_6_y_7_en_los_siguientes_recursos_bibliografia_basica_1_unidades_metodos_un_analisis_mas_detallado_recursividad": "0.5",
+      "lectura_lectura_comprensiva_de_los_temas_de_las_unidades_6_y_7_en_los_siguientes_recursos_bibliografia_basica_2_unidades_metodos": "0.5",
+      "lectura_lectura_comprensiva_de_los_temas_de_las_unidades_6_y_7_en_los_siguientes_recursos_recurso_11_metodos": "1.0",
+      "estudio_de_caso_practico_implementacion_en_lenguaje_de_alto_nivel_de_problematica_dada_avance_1": "2.0",
+      "lista_11": [
+        "Bibliografía básica [1] Unidades:",
+        "Bibliografía básica [2] Unidades: Métodos"
+      ],
+      "semana_12": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+        "contenidos_a_desarrollarse": "Unidad 6: Módulos y Funciones\nIntroducción\nDeclaración de funciones y métodos en lenguajes de alto nivel\nÁmbito de variables locales y globales\nManejo de métodos que no regresen valor.\nManejo de métodos que regresen valor.\nSobrecarga de métodos"
+      },
+      "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nDiseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de\nprogramación\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+      "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+      "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_8_en_los_siguientes_recursos_bibliografia_basica_1_unidades_metodos_un_analisis_mas_detallado": "2.0",
+      "estudio_de_caso_practico_implementacion_en_lenguaje_de_alto_nivel_de_problematica_dada_avance_2": "1.0",
+      "semana_13": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+        "contenidos_a_desarrollarse": "Unidad 7 / Unidad 8\nUnidad 7: Recursividad\nIntroducción y conceptos básicos de recursividad.\nRecursividad vs Iteración\nTipos de recursividad\nAplicación de la recursividad\nUnidad 8: Librerías, API's de desarrollo.\nCreación de paquetes y librerías en lenguajes de alto nivel.\nConsumo de API's de lenguajes de programación de alto nivel.",
+        "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software",
+        "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de inquietudes\nRespuesta a preguntas por parte de los estudiantes, sobre las temáticas estudiadas.\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías\nEvaluación del parcial del segundo bimestre\nResolución de las preguntas y problemas de la evaluación parcial del segundo bimestre\npor parte de los estudiantes.",
+        "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.00"
+      },
+      "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_9_en_los_siguientes_recursos_bibliografia_basica_1_unidades_manejo_de_excepciones_un_analisis_mas_detallado": "2.0",
+      "estudio_de_caso_practico_implementacion_en_lenguaje_de_alto_nivel_de_problematica_dada_avance_3": "2.0",
+      "semana_14": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+        "contenidos_a_desarrollarse": "Unidad 9: Programación a la defensiva.\nConceptos de Programación Defensiva\nManejo de Assertions\nIntroducción al manejo de excepciones\nEstrategias para el Manejo de Excepciones\nDiseño de excepciones propias\nEjemplificación de excepciones en lenguajes de alto nivel",
+        "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nIdentifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través\ndel uso de excepciones\nAplica estrategias para la prueba y depuración de programas\nConstruye, ejecuta y depura programas usando un IDE moderno"
+      },
+      "aplica_estandares_de_documentacion_y_estilo_de_programacion_que_contribuyan_a_la_legibilidad_y_mantenimiento_de_software": {
+        "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+        "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+        "actividades_del_componente_aprendizaje_practico_experimental": "Taller 14 Individual (Laboratorio)\nConstrucción de programas usando Excepciones",
+        "horas_del_componente_aprendizaje_practico_experimental": "2.0",
+        "actividades_del_componente_aprendizaje_autonomo": "Lectura\nLectura comprensiva de los temas de la Unidad 10 en los siguientes recursos:\n2.0\nBibliografía básica [1] Unidades: Archivos, flujos y serialización de objetos\nBibliografía básica [2] Unidades: Registros y archivos\nProyecto Bimestral\n1.0\nImplementación de programas en Python\nEstudio de caso práctico\n1.0\nImplementación en lenguaje de alto nivel de problemática dada (avance 4)",
+        "horas_del_componente_aprendizaje_autonomo": "4.0"
+      },
+      "lectura_lectura_comprensiva_de_los_temas_de_la_unidad_10_en_los_siguientes_recursos_bibliografia_basica_1_unidades_archivos_flujos_y_serializacion_de_objetos_bibliografia_basica_2_unidades_registros_y_archivos": "2.0",
+      "proyecto_bimestral_implementacion_de_programas_en_python": "1.0",
+      "estudio_de_caso_practico_implementacion_en_lenguaje_de_alto_nivel_de_problematica_dada_avance_4": "1.0",
+      "lista_12": [
+        "Bibliografía básica [1] Unidades: Archivos, flujos y serialización de objetos",
+        "Bibliografía básica [2] Unidades: Registros y archivos"
+      ],
+      "semana_15": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+        "contenidos_a_desarrollarse": "Unidad 10: Archivos\nEscritura de archivos\nLectura de archivos",
+        "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nIdentifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través\ndel uso de excepciones\nAplica estrategias para la prueba y depuración de programas\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software\nExtrae y manipula información de archivos de datos",
+        "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Clase magistral de contenidos\nExposición y explicación de contenidos\nResolución de problemas\nPlanteamiento y guía en la solución de problemas\nTutorías\nTutorías",
+        "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+        "actividades_del_componente_aprendizaje_practico_experimental": "Taller 15 Grupal (Laboratorio)\nConstrucción de programas usando lectura y escritura de archivos",
+        "horas_del_componente_aprendizaje_practico_experimental": "2.0",
+        "actividades_del_componente_aprendizaje_autonomo": "Revisión de contenidos\n3.0\nRevisión de contenidos de las unidades como preparación de la evaluación final\ndel segundo bimestre.\nEstudio de caso práctico\n1.0\nImplementación en lenguaje de alto nivel de problemática dada (avance 5)"
+      },
+      "revision_de_contenidos_revision_de_contenidos_de_las_unidades_como_preparacion_de_la_evaluacion_final_del_segundo_bimestre": "3.0",
+      "estudio_de_caso_practico_implementacion_en_lenguaje_de_alto_nivel_de_problematica_dada_avance_5": "1.0",
+      "semana_16": {
+        "competencias_de_la_carrera": "Demuestra dominio de conocimientos y habilidades para la solución de problemas\nmediante la aplicación y creación de algoritmos, modelos matemáticos y métodos de\nCiencias de la Computación",
+        "contenidos_a_desarrollarse": "Evaluación del segundo bimestre",
+        "resultados_de_aprendizaje": "Analiza y explica el comportamiento de programas que involucran estructuras\nfundamentales de programación como variables, expresiones, asignaciones, archivos,\nestructuras de decisión y control, arreglos, funciones, paso de parámetros, y recursividad\nDiseña, implementa, prueba, y depura un programa que usa estructuras fundamentales de\nprogramación\nConstruye, ejecuta y depura programas usando un IDE moderno\nAplica estándares de documentación y estilo de programación que contribuyan a la\nlegibilidad y mantenimiento de software\nIdentifica y previene errores de codificación comunes a nivel lógico y de sintaxis, a través\ndel uso de excepciones\nAplica estrategias para la prueba y depuración de programas\nExtrae y manipula información de archivos de datos",
+        "actividades_del_componente_aprendizaje_en_contacto_con_el_docente": "Evaluación del segundo bimestre\nExplicación y resolución de inquietudes durante evaluación bimestral\nTutorías\nTutorías",
+        "horas_del_componente_aprendizaje_en_contacto_con_el_docente": "3.0",
+        "actividades_del_componente_aprendizaje_practico_experimental": "Resolución de ejercicios\nResolución y guía de ejercicios y preparación para evaluación de recuperación",
+        "horas_del_componente_aprendizaje_practico_experimental": "2.0"
+      },
+      "preparacion_para_la_evaluacion_de_recuperacion": {
+        "actividades_del_componente_aprendizaje_autonomo": "1.0\nPlanteamiento de problemáticas que permitan la preparación para la evaluación de\nrecuperación\nProyecto Bimestral\n2.0\nProyecto Bimestral: Implementación de programas en Python - Presentación\nEstudio de caso práctico\n1.0\nImplementación en lenguaje de alto nivel de problemática dada (presentación y\ndefensa)",
+        "horas_del_componente_aprendizaje_autonomo": "4.0"
+      },
+      "planteamiento_de_problematicas_que_permitan_la_preparacion_para_la_evaluacion_de_recuperacion": "1.0",
+      "proyecto_bimestral_proyecto_bimestral_implementacion_de_programas_en_python_presentacion": "2.0",
+      "estudio_de_caso_practico_implementacion_en_lenguaje_de_alto_nivel_de_problematica_dada_presentacion_y_defensa": "1.0",
+      "horas_de_trabajo": "(Totales del bimestre)",
+      "aprendizaje_en_contacto_con_el_docente": "24",
+      "aprendizaje_practico_experimental": "16",
+      "aprendizaje_autonomo": "32",
+      "total": "72"
+    },
+    "fechas_importantes": {
+      "prueba_parcial": "Semana 13 - del 08/01/2024 al 14/01/2024 Examen bimestral: Semana 16 - del 29/01/2024 al 30/01/2024 Proyecto de investigación: Semana 16 - del 29/01/2024 al 30/01/2024 Otros: Semana 16 - del 29/01/2024 al 30/01/2024",
+      "lista_13": [
+        "D. Evaluación de la asignatura Segundo Bimestre",
+        "E. Evaluación de recuperación"
+      ],
+      "registros": [
+        {
+          "componente": "Aprendizaje en contacto\ncon el docente\n(3.5 puntos)",
+          "porcentaje": "35%",
+          "actividad": "Prueba parcial",
+          "ponderacion": "10.00 %"
+        },
+        {
+          "componente": "Aprendizaje en contacto\ncon el docente\n(3.5 puntos)",
+          "porcentaje": "35%",
+          "actividad": "Examen bimestral",
+          "ponderacion": "25.00 %"
+        },
+        {
+          "componente": "Aprendizaje práctico -\nexperimental\n(3.5 puntos)",
+          "porcentaje": "35%",
+          "actividad": "Taller individual",
+          "ponderacion": "20.00 %"
+        },
+        {
+          "componente": "Aprendizaje práctico -\nexperimental\n(3.5 puntos)",
+          "porcentaje": "35%",
+          "actividad": "Taller grupal",
+          "ponderacion": "15.00 %"
+        },
+        {
+          "componente": "Aprendizaje autónomo\n(3.0 puntos)",
+          "porcentaje": "30%",
+          "actividad": "Otros",
+          "ponderacion": "15.00 %"
+        },
+        {
+          "componente": "Aprendizaje autónomo\n(3.0 puntos)",
+          "porcentaje": "30%",
+          "actividad": "Proyecto de investigación",
+          "ponderacion": "15.00 %"
+        }
+      ]
+    },
+    "el_estudiante_que_obtenga_una_calificacion_menor_a_7_puntos_en_la_nota_total_final_podra_presentarse_a_la_evaluacion_de_recuperacion_la_ponderacion_de_esta_calificacion_sera_igual_al_35_de_la_nota_3_5_puntos_esta_calificacion_sera_sumada_a_lo_acumulado_por_el_estudiante_en_los_componentes_de_aprendizaje_practico_experimental_y_aprendizaje_autonomo": {}
+  },
+  "f_recursos_a_utilizar_en_el_desarrollo_de_la_asignatura_bibliografia_basica": {
+    "lista_14": [
+      "[1] Dietel, P. y Dietel, H. (2016). Java Como Programar. Mexico: Pearson Prentice Hall. Décima Edición. https://visorweb.utpl.edu.ec/library /publication/como- programar-en-java-1617638467",
+      "[2] López Román, Leobardo. (2013) Metodología de la programación orientada a objetos. México. https://visorweb.utpl.edu.ec/library/publication /metodologia- de-la-programacion-orientada-a-objetos-1603157739",
+      "[3] Cadenhead, Roger (2014). PROGRAMACIÓN JAVA 8. Anaya",
+      "[4] Fernández, Arturo (2013). Python 3 al descubierto. Segunda Edición. Rc Libros. https://visorweb.utpl.edu.ec/library/publication/python-3-aldescubierto-1604103079",
+      "[5] Blasco, F. (2019). Programación orientada a objetos en Java. Ediciones de la U. https://elibro.net/es/lc/bibliotecautpl/titulos/127125",
+      "[6] Thomas, Erl (2013). Cloud computing: concepts, technology & architecture. New Jersey. Prentice Hall El libro permite estudiar las bases teóricas y prácticas para el uso de Cloud Computing en el planteamiento de soluciones informáticas."
+    ],
+    "recursos_educativos_abiertos_rea": {
+      "titulo_del_rea": "Enlace",
+      "7_introduction_to_computer_science_and_programming": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-\nintroduction-to-computer-science-and-programming-spring-2011/",
+      "8_introduction_to_computer_science_and_programming_in_python": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-\nintroduction-to-computer-science-and-programming-in-python-fall-2016/",
+      "9_del_cloud_computing_al_big_data": "https://campusvirtual.ull.es/ocw/pluginfile.php/9374/mod_resource/content/4/del.\ncloud_.computing.al_.big_.data_.jorditorres.es_.pdf",
+      "10_pro_git": "https://git-scm.com/book/es/v2",
+      "11_java_apuntes_basicos": "http://j4loxa.com/courses/java101/java_apuntes_basicos.epub",
+      "12_introduccion_a_java": "https://campusvirtual.ull.es/ocw/course/view.php?id=139",
+      "13_python_documentacion": "https://docs.python.org/3/",
+      "14_java_documentacion": "https://www.oracle.com/technetwork/es/java/javase/documentation/index.html",
+      "15_docker_documentacion": "https://www.docker.com/",
+      "16_git_documentacion": "https://git-scm.com/",
+      "lista_15": [
+        "9. Del cloud computing al big data.",
+        "10. Pro Git https://git-scm.com/book/es/v2",
+        "11. Java Apuntes Básicos http://j4loxa.com/courses/java101/java_apuntes_basicos.epub",
+        "12. Introducción a Java https://campusvirtual.ull.es/ocw/course/view.php?id=139",
+        "13. Python Documentación https://docs.python.org/3/",
+        "14. Java Documentación https://www.oracle.com/technetwork/es/java/javase/documentation/index.html",
+        "15. Docker documentación https://www.docker.com/",
+        "16. Git Documentación https://git-scm.com/"
+      ],
+      "nota": "Durante todo el bimestre el docente deberá utilizar un portafolio docente digital donde respalde todo el material utilizado para el desarrollo de la asignatura, sean diapositiva, evaluaciones, recursos, etc."
+    }
+  },
+  "h_elaboracion_y_aprobacion": {
+    "nombre": "Firma",
+    "elaborado_por": "RENE ROLANDO\nELIZALDE SOLANO",
+    "fecha_de_elaboracion": "09-08-2023",
+    "revisado_por_par_academico": "LOPEZ VARGAS JORGE\nAFRANIO",
+    "aprobado_por_director_a_de_carrera": "FERNANDA MARICELA\nSOTO GUERRERO",
+    "fecha_de_aprobacion": "2023-10-03"
+  }
+}
