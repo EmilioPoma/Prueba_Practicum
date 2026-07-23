@@ -114,17 +114,17 @@ python main.py PLAN_3952-DSOF_1067.pdf --metadata "{\"universidad\": \"UNIVERSID
 
 ```
 Practicum1.2/
-├── scripts/                       Código del flujo
-│   ├── main.py                        Orquestador: corre todo de principio a fin
-│   ├── 0_detectar_pdf.py              Auxiliar: detección/selección del PDF
-│   ├── 1_extraer_pdf_opendataloader.py    Paso 1: extracción cruda
-│   ├── 2_filtrar_contenido_sin_tablas.py  Paso 2: filtrar solo texto
-│   ├── 3_construir_documento_final_ordenado.py  Paso 3: tablas + orden real
-│   ├── 4_aplanar_para_mongo_generico.py   Paso 4: aplanado clave:valor + metadata
-│   └── 5_subir_a_mongo_generico.py        Paso 5: subida a MongoDB
-├── pdfs_entrada/                  PDFs de origen facilitados por el tutor
-├── JSONObtenidos/                 Salidas generadas (JSON, Markdown, imágenes)
-├── documentacion/                 Explicación ampliada del flujo y los scripts
+├── scripts/                       
+│   ├── main.py                        
+│   ├── 0_detectar_pdf.py              
+│   ├── 1_extraer_pdf_opendataloader.py    
+│   ├── 2_filtrar_contenido_sin_tablas.py  
+│   ├── 3_construir_documento_final_ordenado.py  
+│   ├── 4_aplanar_para_mongo_generico.py   
+│   └── 5_subir_a_mongo_generico.py        
+├── pdfs_entrada/                  
+├── JSONObtenidos/                 
+├── documentacion/                 
 ├── requirements.txt
 └── README.md
 ```
